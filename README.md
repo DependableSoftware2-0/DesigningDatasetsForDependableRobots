@@ -1,6 +1,11 @@
 # Desirable Characteristics of Datasets for Assessing Responsible Robots
-## Santosh Thoduka and Deebul Nair and Nico Hochgeschwender and Paul G. Pl ̈oger
 
+
+## Santosh Thoduka and Deebul Nair and Nico Hochgeschwender and Paul G. Plöger
+Department of Computer Science, Hochschule Bonn-Rhein-Sieg, Grantham-Allee 20, Sankt Augustin
+53757, Germany 
+
+## Abstract 
 Learning-enabled components in robots must be assessed with respect to non-functional requirements (NFR)
 such as reliability, fault tolerance and adapability in order to
 ease the acceptance of robots into dynamic human-centered environments. While many factors impact NRFs, in this paper we
